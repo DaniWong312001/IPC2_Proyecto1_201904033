@@ -1,0 +1,14 @@
+C:\Users\danie\OneDrive\Desktop\Proyectos IPC2\IPC2_Proyecto1_201904033\bin\Debug\net10.0\IPC2_Proyecto1_201904033.exe
+C:\Users\danie\OneDrive\Desktop\Proyectos IPC2\IPC2_Proyecto1_201904033\bin\Debug\net10.0\IPC2_Proyecto1_201904033.deps.json
+C:\Users\danie\OneDrive\Desktop\Proyectos IPC2\IPC2_Proyecto1_201904033\bin\Debug\net10.0\IPC2_Proyecto1_201904033.runtimeconfig.json
+C:\Users\danie\OneDrive\Desktop\Proyectos IPC2\IPC2_Proyecto1_201904033\bin\Debug\net10.0\IPC2_Proyecto1_201904033.dll
+C:\Users\danie\OneDrive\Desktop\Proyectos IPC2\IPC2_Proyecto1_201904033\bin\Debug\net10.0\IPC2_Proyecto1_201904033.pdb
+C:\Users\danie\OneDrive\Desktop\Proyectos IPC2\IPC2_Proyecto1_201904033\obj\Debug\net10.0\IPC2_Proyecto1_201904033.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Desktop\Proyectos IPC2\IPC2_Proyecto1_201904033\obj\Debug\net10.0\IPC2_Proyecto1_201904033.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Desktop\Proyectos IPC2\IPC2_Proyecto1_201904033\obj\Debug\net10.0\IPC2_Proyecto1_201904033.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Desktop\Proyectos IPC2\IPC2_Proyecto1_201904033\obj\Debug\net10.0\IPC2_Proyecto1_201904033.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Desktop\Proyectos IPC2\IPC2_Proyecto1_201904033\obj\Debug\net10.0\IPC2_Proyecto1_201904033.dll
+C:\Users\danie\OneDrive\Desktop\Proyectos IPC2\IPC2_Proyecto1_201904033\obj\Debug\net10.0\refint\IPC2_Proyecto1_201904033.dll
+C:\Users\danie\OneDrive\Desktop\Proyectos IPC2\IPC2_Proyecto1_201904033\obj\Debug\net10.0\IPC2_Proyecto1_201904033.pdb
+C:\Users\danie\OneDrive\Desktop\Proyectos IPC2\IPC2_Proyecto1_201904033\obj\Debug\net10.0\IPC2_Proyecto1_201904033.genruntimeconfig.cache
+C:\Users\danie\OneDrive\Desktop\Proyectos IPC2\IPC2_Proyecto1_201904033\obj\Debug\net10.0\ref\IPC2_Proyecto1_201904033.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "IPC2_Proyecto1_201904033/1.0.0": {
+        "runtime": {
+          "IPC2_Proyecto1_201904033.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IPC2_Proyecto1_201904033/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
