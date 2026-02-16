@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pacientes> 
+    <paciente> 
+        <datospersonales> 
+            <nombre>Daniel</nombre> 
+            <edad>25</edad> 
+        </datospersonales> 
+        <periodos>5</periodos> 
+        <m>10</m> 
+        <rejilla>
+            <celda f="1" c="1"/>
+            <celda f="1" c="2"/> 
+            <celda f="2" c="1"/> 
+            <celda f="2" c="2"/> 
+            <celda f="6" c="6"/> 
+            <celda f="6" c="7"/> 
+            <celda f="7" c="6"/> 
+            <celda f="7" c="7"/> 
+        </rejilla> 
+    </paciente> 
+</pacientes>

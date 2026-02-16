@@ -12,3 +12,4 @@ C:\Users\danie\OneDrive\Desktop\Proyectos IPC2\IPC2_Proyecto1_201904033\obj\Debu
 C:\Users\danie\OneDrive\Desktop\Proyectos IPC2\IPC2_Proyecto1_201904033\obj\Debug\net10.0\IPC2_Proyecto1_201904033.pdb
 C:\Users\danie\OneDrive\Desktop\Proyectos IPC2\IPC2_Proyecto1_201904033\obj\Debug\net10.0\IPC2_Proyecto1_201904033.genruntimeconfig.cache
 C:\Users\danie\OneDrive\Desktop\Proyectos IPC2\IPC2_Proyecto1_201904033\obj\Debug\net10.0\ref\IPC2_Proyecto1_201904033.dll
+C:\Users\danie\OneDrive\Desktop\Proyectos IPC2\IPC2_Proyecto1_201904033\obj\Debug\net10.0\IPC2_Proyecto1_201904033.sourcelink.json
