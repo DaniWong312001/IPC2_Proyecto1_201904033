@@ -8,48 +8,6 @@ namespace IPC2_Proyecto1_201904033
 
     {
 
-        public static void LeerXML()
-        {
-            // Ruta del archivo XML
-            string path = "C:/Users/danie/OneDrive/Desktop/Proyectos IPC2/IPC2_Proyecto1_201904033/ejemplo.xml";
-            // Crear instancia de XmlDocument
-            XmlDocument xmlDoc = new XmlDocument();
-
-
-            try
-            {
-                // Cargar el archivo XML
-                xmlDoc.Load(path);
-                // Obtener el nodo raíz 
-                XmlElement raiz = xmlDoc.DocumentElement;
-
-                Console.WriteLine("Contenido del archivo XML:");
-
-                // Recorrer todos los nodos hijos
-                foreach (XmlNode nodo in raiz.ChildNodes) 
-                { 
-                    Console.WriteLine($"Nodo: {nodo.Name}");
-                    // Si el nodo tiene atributos 
-                    if (nodo.Attributes != null) 
-                    { 
-                        foreach (XmlAttribute atributo in nodo.Attributes) 
-                        { 
-                            Console.WriteLine($" Atributo: {atributo.Name} = {atributo.Value}"); 
-                        } 
-                    } 
-                    // Si el nodo tiene texto interno 
-                    if (!string.IsNullOrWhiteSpace(nodo.InnerText)) 
-                    { 
-                        Console.WriteLine($" Valor: {nodo.InnerText}"); 
-                    } 
-                }
-            }
-            catch (Exception ex)
-            {
-                Console.WriteLine("Error al leer el archivo XML: " + ex.Message);
-            }
-
-        }
 
         static void Main(string[] args)
 
@@ -69,7 +27,6 @@ namespace IPC2_Proyecto1_201904033
             {
                 case '1':
                     Console.WriteLine("Cargar archivo de un Paciente");
-                    LeerXML();
                     break;
                 case '2':
                     Console.WriteLine("Generar Archivo de Paciente");
