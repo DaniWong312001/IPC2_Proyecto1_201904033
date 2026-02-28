@@ -1,3 +1,6 @@
+
+namespace IPC2_Proyecto1.TDA
+{
  public enum ResultadoDiagnostico //resultado diagnostico del paciente
     {
         Pendiente,
@@ -44,3 +47,4 @@
             return $"Paciente: {Nombre} | Edad: {Edad} | M: {RejillaActual.M} | Período: {PeriodoActual}";
         }
     }
+}

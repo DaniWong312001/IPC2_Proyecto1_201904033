@@ -1,3 +1,6 @@
+
+namespace IPC2_Proyecto1.TDA
+{
 public class Celda //clase para cada celula
     {
         public int Fila { get; set; } //variable para almacenar valor de fila
@@ -21,3 +24,4 @@ public class Celda //clase para cada celula
             return $"({Fila},{Columna})={( EstaContagiada ? "1" : "0")}";
         }
     }
+}

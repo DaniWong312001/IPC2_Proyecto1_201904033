@@ -1,5 +1,7 @@
 using System;
 
+namespace IPC2_Proyecto1.TDA
+{
     public class ListaN<T> //crear clase tipo lista enlazada
     {
         private Nodo<T> _cabeza; //crear variable nodo principal o cabecera
@@ -124,3 +126,4 @@ using System;
             return arreglo;
         }
     }
+}

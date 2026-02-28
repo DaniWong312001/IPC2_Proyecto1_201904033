@@ -1,3 +1,6 @@
+
+namespace IPC2_Proyecto1.TDA
+{
 public class Rejilla
     {
         private ListaN<Celda> _celdas;
@@ -133,3 +136,4 @@ public class Rejilla
             if (M > 20) Console.WriteLine("  ... (rejilla truncada para visualización)");
         }
     }
+}

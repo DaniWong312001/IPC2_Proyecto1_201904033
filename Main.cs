@@ -1,5 +1,8 @@
 using System;
-using IPC2_Proyecto1;
+using IPC2_Proyecto1.LecturaArchivos;
+using IPC2_Proyecto1.Simulador;
+using IPC2_Proyecto1.TDA;
+using IPC2_Proyecto1.Visualizacion;
 
 namespace IPC2_Proyecto1
 {

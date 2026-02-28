@@ -1,3 +1,6 @@
+
+namespace IPC2_Proyecto1.TDA
+{
 public class Nodo<T> //Crear clase de tipo nodo que obtenga un atributo
     {
         public T Dato { get; set; } //metodo get y set para el objeto nodo
@@ -9,3 +12,4 @@ public class Nodo<T> //Crear clase de tipo nodo que obtenga un atributo
             Siguiente = null;
         }
     }
+}
