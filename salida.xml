@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<pacientes>
+  <paciente>
+    <datospersonales>
+      <nombre>Miguel</nombre>
+      <edad>52</edad>
+    </datospersonales>
+    <periodos>5</periodos>
+    <m>10</m>
+    <resultado>pendiente</resultado>
+  </paciente>
+  <paciente>
+    <datospersonales>
+      <nombre>Maria</nombre>
+      <edad>61</edad>
+    </datospersonales>
+    <periodos>5</periodos>
+    <m>10</m>
+    <resultado>grave</resultado>
+    <n>2</n>
+  </paciente>
+</pacientes>
