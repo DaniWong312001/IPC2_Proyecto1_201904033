@@ -1,0 +1,12 @@
+digraph ListaPacientes {
+  rankdir=LR;
+  node [shape=record, style=filled, fillcolor=lightblue];
+  edge [arrowhead=vee];
+  NULL_START [label="NULL", shape=plaintext, fillcolor=white];
+  N0 [label="{<dato> Miguel\nEdad: 52\nM: 10|<sig> →}"];
+  NULL_START -> N0;
+  N1 [label="{<dato> Maria\nEdad: 61\nM: 10|<sig> →}"];
+  N0:sig -> N1;
+  NULL_END [label="NULL", shape=plaintext, fillcolor=white];
+  N1:sig -> NULL_END;
+}
