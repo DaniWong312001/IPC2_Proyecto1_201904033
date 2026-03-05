@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pacientes>
+   <paciente>
+        <datospersonales>
+            <nombre>SamuelDeLuque</nombre>
+            <edad>33</edad>
+        </datospersonales>
+        <periodos>12</periodos>
+        <m>10</m>
+        <resultado>MORTAL</resultado>
+        <n>1</n>
+   </paciente>
+   <paciente>
+        <datospersonales>
+            <nombre>RubenDoblas</nombre>
+            <edad>33</edad>
+        </datospersonales>
+        <periodos>15</periodos>
+        <m>10</m>
+        <resultado>MORTAL</resultado>
+        <n>6</n>
+        <n1>1</n1>
+   </paciente>
+   <paciente>
+        <datospersonales>
+            <nombre>GuillermoDiaz</nombre>
+            <edad>29</edad>
+        </datospersonales>
+        <periodos>5</periodos>
+        <m>20</m>
+        <resultado>LEVE</resultado>
+   </paciente>
+</pacientes>
